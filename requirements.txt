@@ -1,0 +1,14 @@
+numpy
+pandas
+opencv-python
+tensorflow
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+ipywidgets 
+widgetsnbextension
+roboflow
+supervision 
+autodistill 
+autodistill-grounding-dino 
+autodistill-clip
